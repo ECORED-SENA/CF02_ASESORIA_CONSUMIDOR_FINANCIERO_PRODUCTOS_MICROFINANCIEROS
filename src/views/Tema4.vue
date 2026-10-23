@@ -255,7 +255,7 @@
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
             .row(titulo="Garantías mobiliarias").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 La Ley 1676 de 2013 permite constituir garantías mobiliarias sobre bienes muebles y derechos con valor económico, incluidos activos circulantes, inventarios y cuentas por cobrar, entre otros. Antes de considerarlos como respaldo deben verificarse su existencia, titularidad, valoración y las condiciones requeridas para constituir la garantía. 
+              p.mb-3 La Ley 1676 de 2013 permite constituir garantías mobiliarias sobre bienes muebles y derechos con valor económico, incluidos activos circulantes, inventarios y cuentas por cobrar, entre otros. Antes de considerarlos como respaldo, deben verificarse su existencia, titularidad, valoración y las condiciones requeridas para constituir la garantía. 
             .row(titulo="Garantías institucionales").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 El Fondo Nacional de Garantías dispone de esquemas para respaldar créditos de microempresas, incluidos productos destinados a operaciones de microcrédito empresarial para capital de trabajo e inversión fija. Este respaldo no determina la aprobación del crédito, pues la solicitud continúa sujeta a la evaluación realizada por la entidad financiera (Fondo Nacional de Garantías, s. f.).
             .row(titulo="Valoración del respaldo").ajuste-cajaAcordion.ajuste-vineta

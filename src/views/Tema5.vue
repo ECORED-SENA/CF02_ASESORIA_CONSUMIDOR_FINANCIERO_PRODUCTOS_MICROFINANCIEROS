@@ -97,7 +97,7 @@
             .row(titulo="Cartera sana").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 No se limita a identificar las obligaciones que se encuentran al día. También requiere analizar el comportamiento de la cartera, las causas de los atrasos y la efectividad de las acciones realizadas para controlar oportunamente los riesgos asociados a los créditos otorgados.
             .row(titulo="Seguimiento preventivo").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 El monitoreo de indicadores, las razones de incumplimiento, la eficacia de las gestiones de cobro y los acuerdos de pago permite adoptar medidas antes de que las dificultades se conviertan en incumplimientos prolongados (Quintero de Rivas, 2016).
+              p.mb-3 El monitoreo de indicadores, las razones de incumplimiento, la eficacia de las gestiones de cobro y los acuerdos de pago permiten adoptar medidas antes de que las dificultades se conviertan en incumplimientos prolongados (Quintero de Rivas, 2016).
             .row(titulo="Cambios y trazabilidad").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Después del desembolso pueden cambiar las condiciones económicas del cliente. Registrar contactos, fechas, compromisos, novedades y resultados permite conocer la evolución de la obligación y mantener la trazabilidad necesaria cuando se requiere una gestión posterior.
       .row.justify-content-center.align-items-center.mb-0

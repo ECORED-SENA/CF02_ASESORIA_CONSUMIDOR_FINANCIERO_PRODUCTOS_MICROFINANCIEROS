@@ -76,8 +76,8 @@
               figure
                 img(src='@/assets/curso/temas/t1/img10.svg', alt='' style="max-width: 100px")
             .col-xl
-              h2.mb-0 Interés Bancario Corriente
-          p.mb-0 En Colombia, la Superintendencia Financiera certifica periódicamente el Interés Bancario Corriente para distintas modalidades, incluidas las de crédito productivo. Como estas referencias cambian según su periodo de vigencia, en operaciones reales debe consultarse la certificación correspondiente a la fecha del análisis (Superintendencia Financiera de Colombia, 2026c).
+              h2.mb-0 Interés bancario corriente
+          p.mb-0 En Colombia, la Superintendencia Financiera certifica periódicamente el Interés bancario corriente para distintas modalidades, incluidas las de crédito productivo. Como estas referencias cambian según su periodo de vigencia, en operaciones reales debe consultarse la certificación correspondiente a la fecha del análisis (Superintendencia Financiera de Colombia, 2026c).
       .row.justify-content-center.align-items-center.mb-0
         .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
           figure
@@ -192,10 +192,10 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
             .row(titulo="Condiciones de la operación").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Dos créditos con el mismo monto financiado pueden generar pagos diferentes cuando presentan tasas o plazos distintos. Por ello, la tasa debe analizarse junto con el monto, el plazo, la periodicidad y el número de cuotas establecidos para la obligación.
-            .row(titulo="Interés Bancario Corriente").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 La Superintendencia Financiera de Colombia certifica el Interés Bancario Corriente para diferentes modalidades de crédito y lo expresa en términos efectivos anuales. Estas certificaciones tienen periodos específicos de vigencia, por lo que debe consultarse la correspondiente a la fecha y modalidad de la operación analizada (Superintendencia Financiera de Colombia, 2026c).
+            .row(titulo="Interés bancario corriente").ajuste-cajaAcordion.ajuste-vineta
+              p.mb-3 La Superintendencia Financiera de Colombia certifica el Interés bancario corriente para diferentes modalidades de crédito y lo expresa en términos efectivos anuales. Estas certificaciones tienen periodos específicos de vigencia, por lo que debe consultarse la correspondiente a la fecha y modalidad de la operación analizada (Superintendencia Financiera de Colombia, 2026c).
             .row(titulo="Tasa pactada y límite legal").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 La tasa pactada para una operación debe diferenciarse de los límites legales aplicables. La tasa de usura se determina a partir del Interés Bancario Corriente certificado para la modalidad correspondiente; por ello, el análisis debe considerar la información vigente y aplicable al tipo de crédito evaluado.
+              p.mb-3 La tasa pactada para una operación debe diferenciarse de los límites legales aplicables. La tasa de usura se determina a partir del interés bancario corriente certificado para la modalidad correspondiente; por ello, el análisis debe considerar la información vigente y aplicable al tipo de crédito evaluado.
       .row.justify-content-center.align-items-center.mb-0
         .col-xl.mb-4.mb-lg-0
           p La comparación entre alternativas requiere que las tasas se expresen sobre una misma base:
@@ -242,7 +242,7 @@
                 p.mb-0 Interés = $54.300
             .row.align-items-center(numero="4" titulo="Interpretar el resultado")
               .col-md.mb-4.mb-md-0
-                p.mb-0 Durante ese periodo se generan #[b $54.300 de intereses] sobre el saldo utilizado para el cálculo. Este valor no corresponde por sí solo a la cuota total, pues el pago puede incluir también amortización a capital y otros conceptos autorizados que deben identificarse por separado
+                p.mb-0 Durante ese periodo se generan #[b $54.300 de intereses] sobre el saldo utilizado para el cálculo. Este valor no corresponde por sí solo a la cuota total, pues el pago puede incluir también amortización a capital y otros conceptos autorizados que deben identificarse por separado.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t1/img24.png', alt='' style="width: 300px").m-auto
@@ -356,7 +356,7 @@
                 img(src='@/assets/curso/temas/t1/img32.svg', alt='' style="max-width: 100px")
             .col-xl
               h2.mb-0 Referencia para operaciones de crédito
-          p.mb-0 En Colombia, las tasas deben analizarse según la modalidad correspondiente y las certificaciones vigentes. La Superintendencia Financiera de Colombia certifica periódicamente el Interés Bancario Corriente para diferentes modalidades, incluidas las relacionadas con crédito productivo; por ello, debe verificarse la certificación aplicable a la fecha y al tipo de operación analizada (Superintendencia Financiera de Colombia, 2026c).
+          p.mb-0 En Colombia, las tasas deben analizarse según la modalidad correspondiente y las certificaciones vigentes. La Superintendencia Financiera de Colombia certifica periódicamente el interés Bancario Corriente para diferentes modalidades, incluidas las relacionadas con crédito productivo; por ello, debe verificarse la certificación aplicable a la fecha y al tipo de operación analizada (Superintendencia Financiera de Colombia, 2026c).
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           p El siguiente caso ejemplifica el cálculo del interés periódico y el efecto que tendría posteriormente una reducción del saldo:
@@ -388,7 +388,7 @@
                   img(src='@/assets/curso/temas/t1/img35.png', alt="" ).m-auto
               h4.text-center Datos para el cálculo
               .caja-5_p
-                p.mb-0 Para calcular la cuota se requiere identificar el monto financiado, la tasa correspondiente al periodo de pago, el plazo, el número de cuotas y la periodicidad. Estas variables deben expresarse en periodos equivalentes antes de efectuar el cálculo.
+                p.mb-0 Para calcular la cuota, se requiere identificar el monto financiado, la tasa correspondiente al periodo de pago, el plazo, el número de cuotas y la periodicidad. Estas variables deben expresarse en periodos equivalentes antes de efectuar el cálculo.
         .col-xl-4.col-md-9.mb-4.mb-lg-0(data-aos="zoom-in")
           .caja-5.h-100
             .row.justify-content-center.mb-3
@@ -406,7 +406,7 @@
                   img(src='@/assets/curso/temas/t1/img37.png', alt="" ).m-auto
               h4.text-center Interpretación de la cuota
               .caja-5_p
-                p.mb-0 El valor de la cuota debe relacionarse con la capacidad económica del cliente y no interpretarse únicamente como un resultado matemático. Su análisis requiere considerar la tasa, el plazo y las demás condiciones de la obligación para valorar adecuadamente el compromiso financiero.
+                p.mb-0 El valor de la cuota, debe relacionarse con la capacidad económica del cliente y no interpretarse únicamente como un resultado matemático. Su análisis requiere considerar la tasa, el plazo y las demás condiciones de la obligación para valorar adecuadamente el compromiso financiero.
       p.mb-5 Para profundizar en el cálculo de la cuota periódica y la distribución del pago, se invita a consultar el siguiente documento:
       .caja-6.mb-0(data-aos="flip-up")
         .row.align-items-center

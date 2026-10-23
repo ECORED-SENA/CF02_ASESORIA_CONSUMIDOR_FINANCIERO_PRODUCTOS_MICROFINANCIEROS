@@ -447,7 +447,7 @@
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img14.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Análisis de la generación de recursos
-      p.mb-5 Para establecer el resultado de la actividad se comparan los ingresos del periodo con los costos de producción o comercialización y los demás gastos operativos. El excedente obtenido aún no representa capacidad de pago, pues faltan por considerar las necesidades familiares y las obligaciones financieras.
+      p.mb-5 Para establecer el resultado de la actividad, se comparan los ingresos del periodo con los costos de producción o comercialización y los demás gastos operativos. El excedente obtenido aún no representa capacidad de pago, pues faltan por considerar las necesidades familiares y las obligaciones financieras.
       .row.justify-content-center.align-items-center.mb-5
         .col-xl-auto.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
           figure
